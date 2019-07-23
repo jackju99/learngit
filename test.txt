@@ -1,2 +1,3 @@
 this is a text file
 modify git/config url https
+modify https add account
